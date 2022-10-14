@@ -1,0 +1,47 @@
+
+.marginL{
+ margin-left: 20px;
+}
+.logout{
+  margin-left: 60%;
+  clear: both;
+}
+.folat{
+  float: left;
+}
+.req{
+  font-size: 25px;
+}
+.App {
+  margin: 0 auto;
+  margin-top: 0%;
+  width: auto;
+  min-height: auto;
+}
+.username{
+  float: right;
+ 
+}
+.icon{
+  float: right;
+  margin-left: 10px;
+  margin-right: 10px;
+
+}
+
+.profile{
+  margin-top: 0 auto;
+  width: 20%;
+  margin-left: 80%;
+  font-size: 20px;
+  height: 200px;
+}
+
+.clear{
+  clear: both;
+}
+
+.button{
+  margin-top: 50px;
+  text-align: center;
+}
